@@ -35,17 +35,9 @@ A simple .NET console application to fetch and display a user's recent public ac
 
 ### Example
 
-github-activity octocat
+<img width="1160" height="473" alt="image" src="https://github.com/user-attachments/assets/969fd8b2-edfc-4bda-a0e1-cec6dfeca255" />
 
-ForkEvent on octocat/Spoon-Knife
 
-Starred octocat/git-consortium
-
-Pushed 0 commits to octocat/test-repo
-
-Created a new repository: octocat/Hello-World
-
-opened a pull request in octocat/Hello-World Press any key to continue...
 
 ## 📄 Technical Details
 

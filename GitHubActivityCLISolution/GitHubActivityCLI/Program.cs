@@ -12,6 +12,7 @@ namespace GitHubActivityCLI
             {
                 Console.Clear();
                 PrintBanner();
+                Console.WriteLine("Welcome! Type 'github-activity <username>' to see information about the user's recent activity.\n");
                 string userName = InputValidationService.Validate(Console.ReadLine());
                 if (!string.IsNullOrEmpty(userName))
                     await PrintUserActivity.PrintActivity(userName);

@@ -2,8 +2,6 @@
 
 A simple .NET console application to fetch and display a user's recent public activity from the GitHub API.
 
-(Простое консольное .NET-приложение для получения и отображения последней публичной активности пользователя с GitHub API.)
-
 ## 🚀 Features
 
 * **Fetch User Activity:** Get the recent public activity for any valid GitHub user.
